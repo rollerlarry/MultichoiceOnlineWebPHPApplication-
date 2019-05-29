@@ -1,0 +1,22 @@
+//
+//** Customized Bootstrap Version For Metronic
+//
+
+//1:== Framework Config
+@import "../../config";
+
+//2:== Framework Base Include
+@import "../../base/include";
+@import "../../components/base/arrows/mixins";
+
+//3: Framework Components Config
+@import "../../components/base/config";
+
+//4:== Override Bootstrap Variables
+@import "variables";
+
+//5:== Bootstrap
+@import "../../../../../../tools/bower_components/bootstrap/scss/bootstrap";
+
+//6:== Extend Bootstrap
+@import "extend";

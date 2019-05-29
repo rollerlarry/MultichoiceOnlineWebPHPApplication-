@@ -1,0 +1,1 @@
+swal("Successful!", "This post has been creacted!", "success");

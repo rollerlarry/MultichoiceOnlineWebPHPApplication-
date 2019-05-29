@@ -1,0 +1,1 @@
+swal("Successful!", "This account has been creacted!", "success");
